@@ -6,6 +6,7 @@ import { Section } from './Section/Section';
 import css from './Section/Section.module.css';
 
 export class App extends Component {
+  
   state = {
     good: 0,
     neutral: 0,
